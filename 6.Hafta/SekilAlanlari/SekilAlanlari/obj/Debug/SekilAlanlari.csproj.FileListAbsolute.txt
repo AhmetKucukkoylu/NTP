@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\SekilAlanlari\SekilAlanlari\bin\Debug\SekilAlanlari.exe.config
+C:\Users\ahmet\source\repos\SekilAlanlari\SekilAlanlari\bin\Debug\SekilAlanlari.exe
+C:\Users\ahmet\source\repos\SekilAlanlari\SekilAlanlari\bin\Debug\SekilAlanlari.pdb
+C:\Users\ahmet\source\repos\SekilAlanlari\SekilAlanlari\obj\Debug\SekilAlanlari.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\SekilAlanlari\SekilAlanlari\obj\Debug\SekilAlanlari.exe
+C:\Users\ahmet\source\repos\SekilAlanlari\SekilAlanlari\obj\Debug\SekilAlanlari.pdb

@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\AraçKiralamaSınıfı\AraçKiralamaSınıfı\bin\Debug\AraçKiralamaSınıfı.exe.config
+C:\Users\ahmet\source\repos\AraçKiralamaSınıfı\AraçKiralamaSınıfı\bin\Debug\AraçKiralamaSınıfı.exe
+C:\Users\ahmet\source\repos\AraçKiralamaSınıfı\AraçKiralamaSınıfı\bin\Debug\AraçKiralamaSınıfı.pdb
+C:\Users\ahmet\source\repos\AraçKiralamaSınıfı\AraçKiralamaSınıfı\obj\Debug\AraçKiralamaSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AraçKiralamaSınıfı\AraçKiralamaSınıfı\obj\Debug\AraçKiralamaSınıfı.exe
+C:\Users\ahmet\source\repos\AraçKiralamaSınıfı\AraçKiralamaSınıfı\obj\Debug\AraçKiralamaSınıfı.pdb

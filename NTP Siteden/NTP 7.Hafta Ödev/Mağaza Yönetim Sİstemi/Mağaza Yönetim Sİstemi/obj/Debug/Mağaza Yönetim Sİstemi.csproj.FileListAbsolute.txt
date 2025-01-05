@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\Mağaza Yönetim Sİstemi\Mağaza Yönetim Sİstemi\bin\Debug\Mağaza Yönetim Sİstemi.exe.config
+C:\Users\ahmet\source\repos\Mağaza Yönetim Sİstemi\Mağaza Yönetim Sİstemi\bin\Debug\Mağaza Yönetim Sİstemi.exe
+C:\Users\ahmet\source\repos\Mağaza Yönetim Sİstemi\Mağaza Yönetim Sİstemi\bin\Debug\Mağaza Yönetim Sİstemi.pdb
+C:\Users\ahmet\source\repos\Mağaza Yönetim Sİstemi\Mağaza Yönetim Sİstemi\obj\Debug\Mağaza Yönetim Sİstemi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Mağaza Yönetim Sİstemi\Mağaza Yönetim Sİstemi\obj\Debug\Mağaza Yönetim Sİstemi.exe
+C:\Users\ahmet\source\repos\Mağaza Yönetim Sİstemi\Mağaza Yönetim Sİstemi\obj\Debug\Mağaza Yönetim Sİstemi.pdb

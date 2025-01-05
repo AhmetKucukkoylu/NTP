@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\DevamEdenDizi\DevamEdenDizi\bin\Debug\DevamEdenDizi.exe.config
+C:\Users\ahmet\source\repos\DevamEdenDizi\DevamEdenDizi\bin\Debug\DevamEdenDizi.exe
+C:\Users\ahmet\source\repos\DevamEdenDizi\DevamEdenDizi\bin\Debug\DevamEdenDizi.pdb
+C:\Users\ahmet\source\repos\DevamEdenDizi\DevamEdenDizi\obj\Debug\DevamEdenDizi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DevamEdenDizi\DevamEdenDizi\obj\Debug\DevamEdenDizi.exe
+C:\Users\ahmet\source\repos\DevamEdenDizi\DevamEdenDizi\obj\Debug\DevamEdenDizi.pdb

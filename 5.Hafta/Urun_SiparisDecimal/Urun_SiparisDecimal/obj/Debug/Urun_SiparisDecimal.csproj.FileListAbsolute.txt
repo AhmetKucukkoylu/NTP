@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\bin\Debug\Urun_SiparisDecimal.exe.config
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\bin\Debug\Urun_SiparisDecimal.exe
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\bin\Debug\Urun_SiparisDecimal.pdb
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\obj\Debug\Urun_SiparisDecimal.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\obj\Debug\Urun_SiparisDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\obj\Debug\Urun_SiparisDecimal.exe
+C:\Users\Beşir Can\source\repos\Urun_SiparisDecimal\Urun_SiparisDecimal\obj\Debug\Urun_SiparisDecimal.pdb

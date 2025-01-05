@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.exe.config
+C:\Users\ahmet\source\repos\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.exe
+C:\Users\ahmet\source\repos\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.pdb
+C:\Users\ahmet\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.exe
+C:\Users\ahmet\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.pdb

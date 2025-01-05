@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\AdresDefterSınıfı\AdresDefterSınıfı\bin\Debug\AdresDefterSınıfı.exe.config
+C:\Users\ahmet\source\repos\AdresDefterSınıfı\AdresDefterSınıfı\bin\Debug\AdresDefterSınıfı.exe
+C:\Users\ahmet\source\repos\AdresDefterSınıfı\AdresDefterSınıfı\bin\Debug\AdresDefterSınıfı.pdb
+C:\Users\ahmet\source\repos\AdresDefterSınıfı\AdresDefterSınıfı\obj\Debug\AdresDefterSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AdresDefterSınıfı\AdresDefterSınıfı\obj\Debug\AdresDefterSınıfı.exe
+C:\Users\ahmet\source\repos\AdresDefterSınıfı\AdresDefterSınıfı\obj\Debug\AdresDefterSınıfı.pdb

@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\bin\Debug\Calisan_Departman.exe.config
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\bin\Debug\Calisan_Departman.exe
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\bin\Debug\Calisan_Departman.pdb
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\obj\Debug\Calisan_Departman.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\obj\Debug\Calisan_Departman.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\obj\Debug\Calisan_Departman.exe
+C:\Users\Beşir Can\source\repos\Calisan_Departman\Calisan_Departman\obj\Debug\Calisan_Departman.pdb

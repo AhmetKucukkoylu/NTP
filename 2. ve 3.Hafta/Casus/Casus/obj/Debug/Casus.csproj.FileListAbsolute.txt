@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\Casus\Casus\bin\Debug\Casus.exe.config
+C:\Users\ahmet\source\repos\Casus\Casus\bin\Debug\Casus.exe
+C:\Users\ahmet\source\repos\Casus\Casus\bin\Debug\Casus.pdb
+C:\Users\ahmet\source\repos\Casus\Casus\obj\Debug\Casus.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Casus\Casus\obj\Debug\Casus.exe
+C:\Users\ahmet\source\repos\Casus\Casus\obj\Debug\Casus.pdb

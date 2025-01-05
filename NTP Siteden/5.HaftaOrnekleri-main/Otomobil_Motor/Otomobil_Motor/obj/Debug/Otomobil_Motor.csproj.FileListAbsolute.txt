@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Otomobil_Motor\Otomobil_Motor\bin\Debug\Otomobil_Motor.exe.config
+C:\Users\Beşir Can\source\repos\Otomobil_Motor\Otomobil_Motor\bin\Debug\Otomobil_Motor.exe
+C:\Users\Beşir Can\source\repos\Otomobil_Motor\Otomobil_Motor\bin\Debug\Otomobil_Motor.pdb
+C:\Users\Beşir Can\source\repos\Otomobil_Motor\Otomobil_Motor\obj\Debug\Otomobil_Motor.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Otomobil_Motor\Otomobil_Motor\obj\Debug\Otomobil_Motor.exe
+C:\Users\Beşir Can\source\repos\Otomobil_Motor\Otomobil_Motor\obj\Debug\Otomobil_Motor.pdb

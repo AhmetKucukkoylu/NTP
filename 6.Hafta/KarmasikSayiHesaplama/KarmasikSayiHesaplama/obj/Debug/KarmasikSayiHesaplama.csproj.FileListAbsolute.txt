@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\KarmasikSayiHesaplama\KarmasikSayiHesaplama\bin\Debug\KarmasikSayiHesaplama.exe.config
+C:\Users\ahmet\source\repos\KarmasikSayiHesaplama\KarmasikSayiHesaplama\bin\Debug\KarmasikSayiHesaplama.exe
+C:\Users\ahmet\source\repos\KarmasikSayiHesaplama\KarmasikSayiHesaplama\bin\Debug\KarmasikSayiHesaplama.pdb
+C:\Users\ahmet\source\repos\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.exe
+C:\Users\ahmet\source\repos\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.pdb

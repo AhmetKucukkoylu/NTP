@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\IsVeMaas\IsVeMaas\bin\Debug\IsVeMaas.exe.config
+C:\Users\ahmet\source\repos\IsVeMaas\IsVeMaas\bin\Debug\IsVeMaas.exe
+C:\Users\ahmet\source\repos\IsVeMaas\IsVeMaas\bin\Debug\IsVeMaas.pdb
+C:\Users\ahmet\source\repos\IsVeMaas\IsVeMaas\obj\Debug\IsVeMaas.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\IsVeMaas\IsVeMaas\obj\Debug\IsVeMaas.exe
+C:\Users\ahmet\source\repos\IsVeMaas\IsVeMaas\obj\Debug\IsVeMaas.pdb

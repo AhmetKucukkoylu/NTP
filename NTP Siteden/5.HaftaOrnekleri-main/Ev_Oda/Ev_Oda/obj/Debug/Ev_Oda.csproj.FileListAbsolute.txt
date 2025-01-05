@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\bin\Debug\Ev_Oda.exe.config
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\bin\Debug\Ev_Oda.exe
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\bin\Debug\Ev_Oda.pdb
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\obj\Debug\Ev_Oda.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\obj\Debug\Ev_Oda.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\obj\Debug\Ev_Oda.exe
+C:\Users\Beşir Can\source\repos\Ev_Oda\Ev_Oda\obj\Debug\Ev_Oda.pdb

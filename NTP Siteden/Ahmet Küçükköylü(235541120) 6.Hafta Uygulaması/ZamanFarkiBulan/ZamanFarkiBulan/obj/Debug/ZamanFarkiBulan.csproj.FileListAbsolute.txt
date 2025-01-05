@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\ZamanFarkiBulan\ZamanFarkiBulan\bin\Debug\ZamanFarkiBulan.exe.config
+C:\Users\ahmet\source\repos\ZamanFarkiBulan\ZamanFarkiBulan\bin\Debug\ZamanFarkiBulan.exe
+C:\Users\ahmet\source\repos\ZamanFarkiBulan\ZamanFarkiBulan\bin\Debug\ZamanFarkiBulan.pdb
+C:\Users\ahmet\source\repos\ZamanFarkiBulan\ZamanFarkiBulan\obj\Debug\ZamanFarkiBulan.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ZamanFarkiBulan\ZamanFarkiBulan\obj\Debug\ZamanFarkiBulan.exe
+C:\Users\ahmet\source\repos\ZamanFarkiBulan\ZamanFarkiBulan\obj\Debug\ZamanFarkiBulan.pdb

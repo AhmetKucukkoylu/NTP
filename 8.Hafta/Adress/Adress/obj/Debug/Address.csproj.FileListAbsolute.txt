@@ -1,0 +1,3 @@
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Address.csproj.CoreCompileInputs.cache
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Adress.exe
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Adress.pdb

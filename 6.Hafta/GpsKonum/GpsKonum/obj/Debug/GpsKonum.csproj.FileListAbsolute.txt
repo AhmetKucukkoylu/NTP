@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\GpsKonum\GpsKonum\bin\Debug\GpsKonum.exe.config
+C:\Users\ahmet\source\repos\GpsKonum\GpsKonum\bin\Debug\GpsKonum.exe
+C:\Users\ahmet\source\repos\GpsKonum\GpsKonum\bin\Debug\GpsKonum.pdb
+C:\Users\ahmet\source\repos\GpsKonum\GpsKonum\obj\Debug\GpsKonum.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\GpsKonum\GpsKonum\obj\Debug\GpsKonum.exe
+C:\Users\ahmet\source\repos\GpsKonum\GpsKonum\obj\Debug\GpsKonum.pdb

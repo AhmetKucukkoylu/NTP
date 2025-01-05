@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Kutuphane_Kitap\Kutuphane_Kitap\bin\Debug\Kutuphane_Kitap.exe.config
+C:\Users\Beşir Can\source\repos\Kutuphane_Kitap\Kutuphane_Kitap\bin\Debug\Kutuphane_Kitap.exe
+C:\Users\Beşir Can\source\repos\Kutuphane_Kitap\Kutuphane_Kitap\bin\Debug\Kutuphane_Kitap.pdb
+C:\Users\Beşir Can\source\repos\Kutuphane_Kitap\Kutuphane_Kitap\obj\Debug\Kutuphane_Kitap.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Kutuphane_Kitap\Kutuphane_Kitap\obj\Debug\Kutuphane_Kitap.exe
+C:\Users\Beşir Can\source\repos\Kutuphane_Kitap\Kutuphane_Kitap\obj\Debug\Kutuphane_Kitap.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Sirket_Calisan_İkili\Sirket_Calisan_İkili\obj\Debug\Sirket_Calisan_İkili.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Sirket_Calisan_İkili\Sirket_Calisan_İkili\bin\Debug\Sirket_Calisan_İkili.exe.config
+C:\Users\Beşir Can\source\repos\Sirket_Calisan_İkili\Sirket_Calisan_İkili\bin\Debug\Sirket_Calisan_İkili.exe
+C:\Users\Beşir Can\source\repos\Sirket_Calisan_İkili\Sirket_Calisan_İkili\bin\Debug\Sirket_Calisan_İkili.pdb
+C:\Users\Beşir Can\source\repos\Sirket_Calisan_İkili\Sirket_Calisan_İkili\obj\Debug\Sirket_Calisan_İkili.exe
+C:\Users\Beşir Can\source\repos\Sirket_Calisan_İkili\Sirket_Calisan_İkili\obj\Debug\Sirket_Calisan_İkili.pdb

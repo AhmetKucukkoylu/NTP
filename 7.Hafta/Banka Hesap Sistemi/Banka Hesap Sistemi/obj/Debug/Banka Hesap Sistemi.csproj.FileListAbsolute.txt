@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\bin\Debug\Banka Hesap Sistemi.exe.config
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\bin\Debug\Banka Hesap Sistemi.exe
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\bin\Debug\Banka Hesap Sistemi.pdb
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\obj\Debug\Banka Hesap Sistemi.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\obj\Debug\Banka Hesap Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\obj\Debug\Banka Hesap Sistemi.exe
+C:\Users\ahmet\source\repos\Banka Hesap Sistemi\Banka Hesap Sistemi\obj\Debug\Banka Hesap Sistemi.pdb

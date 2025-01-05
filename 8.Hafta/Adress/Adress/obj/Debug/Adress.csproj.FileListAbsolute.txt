@@ -1,0 +1,7 @@
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Adress.csprojAssemblyReference.cache
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Adress.csproj.CoreCompileInputs.cache
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\bin\Debug\Adress.exe.config
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\bin\Debug\Adress.exe
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\bin\Debug\Adress.pdb
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Adress.exe
+C:\Users\SirKucukkoylu\source\repos\Adress\Adress\obj\Debug\Adress.pdb

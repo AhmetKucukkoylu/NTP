@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\bin\Debug\Urun_Siparis.exe.config
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\bin\Debug\Urun_Siparis.exe
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\bin\Debug\Urun_Siparis.pdb
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\obj\Debug\Urun_Siparis.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\obj\Debug\Urun_Siparis.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\obj\Debug\Urun_Siparis.exe
+C:\Users\Beşir Can\source\repos\Urun_Siparis\Urun_Siparis\obj\Debug\Urun_Siparis.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Okul_Ogrenci\Okul_Ogrenci\bin\Debug\Okul_Ogrenci.exe.config
+C:\Users\Beşir Can\source\repos\Okul_Ogrenci\Okul_Ogrenci\bin\Debug\Okul_Ogrenci.exe
+C:\Users\Beşir Can\source\repos\Okul_Ogrenci\Okul_Ogrenci\bin\Debug\Okul_Ogrenci.pdb
+C:\Users\Beşir Can\source\repos\Okul_Ogrenci\Okul_Ogrenci\obj\Debug\Okul_Ogrenci.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Okul_Ogrenci\Okul_Ogrenci\obj\Debug\Okul_Ogrenci.exe
+C:\Users\Beşir Can\source\repos\Okul_Ogrenci\Okul_Ogrenci\obj\Debug\Okul_Ogrenci.pdb

@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\Abone Sistemi\Abone Sistemi\bin\Debug\Abone Sistemi.exe.config
+C:\Users\ahmet\source\repos\Abone Sistemi\Abone Sistemi\bin\Debug\Abone Sistemi.exe
+C:\Users\ahmet\source\repos\Abone Sistemi\Abone Sistemi\bin\Debug\Abone Sistemi.pdb
+C:\Users\ahmet\source\repos\Abone Sistemi\Abone Sistemi\obj\Debug\Abone Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Abone Sistemi\Abone Sistemi\obj\Debug\Abone Sistemi.exe
+C:\Users\ahmet\source\repos\Abone Sistemi\Abone Sistemi\obj\Debug\Abone Sistemi.pdb

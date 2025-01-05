@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hasta_Doktor\Hasta_Doktor\bin\Debug\Hasta_Doktor.exe.config
+C:\Users\Beşir Can\source\repos\Hasta_Doktor\Hasta_Doktor\bin\Debug\Hasta_Doktor.exe
+C:\Users\Beşir Can\source\repos\Hasta_Doktor\Hasta_Doktor\bin\Debug\Hasta_Doktor.pdb
+C:\Users\Beşir Can\source\repos\Hasta_Doktor\Hasta_Doktor\obj\Debug\Hasta_Doktor.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hasta_Doktor\Hasta_Doktor\obj\Debug\Hasta_Doktor.exe
+C:\Users\Beşir Can\source\repos\Hasta_Doktor\Hasta_Doktor\obj\Debug\Hasta_Doktor.pdb

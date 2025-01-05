@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\obj\Debug\İşlemÖnceliği.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\obj\Debug\İşlemÖnceliği.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\bin\Debug\İşlemÖnceliği.exe.config
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\bin\Debug\İşlemÖnceliği.exe
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\bin\Debug\İşlemÖnceliği.pdb
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\obj\Debug\İşlemÖnceliği.exe
+C:\Users\ahmet\source\repos\İşlemÖnceliği\İşlemÖnceliği\obj\Debug\İşlemÖnceliği.pdb

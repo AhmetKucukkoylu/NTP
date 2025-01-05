@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\TrafikisigiDurum\TrafikisigiDurum\obj\Debug\TrafikisigiDurum.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\TrafikisigiDurum\TrafikisigiDurum\bin\Debug\TrafikisigiDurum.exe.config
+C:\Users\ahmet\source\repos\TrafikisigiDurum\TrafikisigiDurum\bin\Debug\TrafikisigiDurum.exe
+C:\Users\ahmet\source\repos\TrafikisigiDurum\TrafikisigiDurum\bin\Debug\TrafikisigiDurum.pdb
+C:\Users\ahmet\source\repos\TrafikisigiDurum\TrafikisigiDurum\obj\Debug\TrafikisigiDurum.exe
+C:\Users\ahmet\source\repos\TrafikisigiDurum\TrafikisigiDurum\obj\Debug\TrafikisigiDurum.pdb

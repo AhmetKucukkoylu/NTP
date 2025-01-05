@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35431.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banka Hesap Sistemi", "Banka Hesap Sistemi\Banka Hesap Sistemi.csproj", "{59AB25AD-FBD2-4FC2-901B-3C5F40240296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59AB25AD-FBD2-4FC2-901B-3C5F40240296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AB25AD-FBD2-4FC2-901B-3C5F40240296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AB25AD-FBD2-4FC2-901B-3C5F40240296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AB25AD-FBD2-4FC2-901B-3C5F40240296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30BA0620-897C-4B50-BEAB-45B82D6E931C}
+	EndGlobalSection
+EndGlobal

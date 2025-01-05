@@ -1,0 +1,6 @@
+C:\Users\SirKucukkoylu\source\repos\Transaction\Transaction\bin\Debug\Transaction.exe.config
+C:\Users\SirKucukkoylu\source\repos\Transaction\Transaction\bin\Debug\Transaction.exe
+C:\Users\SirKucukkoylu\source\repos\Transaction\Transaction\bin\Debug\Transaction.pdb
+C:\Users\SirKucukkoylu\source\repos\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\SirKucukkoylu\source\repos\Transaction\Transaction\obj\Debug\Transaction.exe
+C:\Users\SirKucukkoylu\source\repos\Transaction\Transaction\obj\Debug\Transaction.pdb

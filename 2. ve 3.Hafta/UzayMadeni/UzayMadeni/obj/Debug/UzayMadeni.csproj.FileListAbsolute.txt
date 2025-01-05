@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\UzayMadeni\UzayMadeni\bin\Debug\UzayMadeni.exe.config
+C:\Users\ahmet\source\repos\UzayMadeni\UzayMadeni\bin\Debug\UzayMadeni.exe
+C:\Users\ahmet\source\repos\UzayMadeni\UzayMadeni\bin\Debug\UzayMadeni.pdb
+C:\Users\ahmet\source\repos\UzayMadeni\UzayMadeni\obj\Debug\UzayMadeni.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\UzayMadeni\UzayMadeni\obj\Debug\UzayMadeni.exe
+C:\Users\ahmet\source\repos\UzayMadeni\UzayMadeni\obj\Debug\UzayMadeni.pdb

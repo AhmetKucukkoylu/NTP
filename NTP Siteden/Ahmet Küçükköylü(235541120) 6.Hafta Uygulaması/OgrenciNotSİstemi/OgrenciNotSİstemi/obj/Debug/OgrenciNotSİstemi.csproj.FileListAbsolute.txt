@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\OgrenciNotSİstemi\OgrenciNotSİstemi\bin\Debug\OgrenciNotSİstemi.exe.config
+C:\Users\ahmet\source\repos\OgrenciNotSİstemi\OgrenciNotSİstemi\bin\Debug\OgrenciNotSİstemi.exe
+C:\Users\ahmet\source\repos\OgrenciNotSİstemi\OgrenciNotSİstemi\bin\Debug\OgrenciNotSİstemi.pdb
+C:\Users\ahmet\source\repos\OgrenciNotSİstemi\OgrenciNotSİstemi\obj\Debug\OgrenciNotSİstemi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\OgrenciNotSİstemi\OgrenciNotSİstemi\obj\Debug\OgrenciNotSİstemi.exe
+C:\Users\ahmet\source\repos\OgrenciNotSİstemi\OgrenciNotSİstemi\obj\Debug\OgrenciNotSİstemi.pdb

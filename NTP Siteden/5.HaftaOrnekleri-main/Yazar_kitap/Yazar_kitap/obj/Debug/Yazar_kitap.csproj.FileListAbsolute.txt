@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\obj\Debug\Yazar_kitap.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\obj\Debug\Yazar_kitap.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\bin\Debug\Yazar_kitap.exe.config
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\bin\Debug\Yazar_kitap.exe
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\bin\Debug\Yazar_kitap.pdb
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\obj\Debug\Yazar_kitap.exe
+C:\Users\Beşir Can\source\repos\Yazar_kitap\Yazar_kitap\obj\Debug\Yazar_kitap.pdb

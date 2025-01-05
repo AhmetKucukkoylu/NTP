@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\ZamanMakinesi\ZamanMakinesi\obj\Debug\ZamanMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ZamanMakinesi\ZamanMakinesi\bin\Debug\ZamanMakinesi.exe.config
+C:\Users\ahmet\source\repos\ZamanMakinesi\ZamanMakinesi\bin\Debug\ZamanMakinesi.exe
+C:\Users\ahmet\source\repos\ZamanMakinesi\ZamanMakinesi\bin\Debug\ZamanMakinesi.pdb
+C:\Users\ahmet\source\repos\ZamanMakinesi\ZamanMakinesi\obj\Debug\ZamanMakinesi.exe
+C:\Users\ahmet\source\repos\ZamanMakinesi\ZamanMakinesi\obj\Debug\ZamanMakinesi.pdb

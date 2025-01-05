@@ -1,0 +1,6 @@
+C:\Users\SirKucukkoylu\source\repos\PetClass\PetClass\obj\Debug\PetClass.csproj.CoreCompileInputs.cache
+C:\Users\SirKucukkoylu\source\repos\PetClass\PetClass\bin\Debug\PetClass.exe.config
+C:\Users\SirKucukkoylu\source\repos\PetClass\PetClass\bin\Debug\PetClass.exe
+C:\Users\SirKucukkoylu\source\repos\PetClass\PetClass\bin\Debug\PetClass.pdb
+C:\Users\SirKucukkoylu\source\repos\PetClass\PetClass\obj\Debug\PetClass.exe
+C:\Users\SirKucukkoylu\source\repos\PetClass\PetClass\obj\Debug\PetClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\GizemliAda\GizemliAda\bin\Debug\GizemliAda.exe.config
+C:\Users\ahmet\source\repos\GizemliAda\GizemliAda\bin\Debug\GizemliAda.exe
+C:\Users\ahmet\source\repos\GizemliAda\GizemliAda\bin\Debug\GizemliAda.pdb
+C:\Users\ahmet\source\repos\GizemliAda\GizemliAda\obj\Debug\GizemliAda.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\GizemliAda\GizemliAda\obj\Debug\GizemliAda.exe
+C:\Users\ahmet\source\repos\GizemliAda\GizemliAda\obj\Debug\GizemliAda.pdb

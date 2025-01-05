@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\KütüphaneSınıfı\KütüphaneSınıfı\bin\Debug\KütüphaneSınıfı.exe.config
+C:\Users\ahmet\source\repos\KütüphaneSınıfı\KütüphaneSınıfı\bin\Debug\KütüphaneSınıfı.exe
+C:\Users\ahmet\source\repos\KütüphaneSınıfı\KütüphaneSınıfı\bin\Debug\KütüphaneSınıfı.pdb
+C:\Users\ahmet\source\repos\KütüphaneSınıfı\KütüphaneSınıfı\obj\Debug\KütüphaneSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\KütüphaneSınıfı\KütüphaneSınıfı\obj\Debug\KütüphaneSınıfı.exe
+C:\Users\ahmet\source\repos\KütüphaneSınıfı\KütüphaneSınıfı\obj\Debug\KütüphaneSınıfı.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Bilgisayar_Islemci\Bilgisayar_Islemci\bin\Debug\Bilgisayar_Islemci.exe.config
+C:\Users\Beşir Can\source\repos\Bilgisayar_Islemci\Bilgisayar_Islemci\bin\Debug\Bilgisayar_Islemci.exe
+C:\Users\Beşir Can\source\repos\Bilgisayar_Islemci\Bilgisayar_Islemci\bin\Debug\Bilgisayar_Islemci.pdb
+C:\Users\Beşir Can\source\repos\Bilgisayar_Islemci\Bilgisayar_Islemci\obj\Debug\Bilgisayar_Islemci.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Bilgisayar_Islemci\Bilgisayar_Islemci\obj\Debug\Bilgisayar_Islemci.exe
+C:\Users\Beşir Can\source\repos\Bilgisayar_Islemci\Bilgisayar_Islemci\obj\Debug\Bilgisayar_Islemci.pdb

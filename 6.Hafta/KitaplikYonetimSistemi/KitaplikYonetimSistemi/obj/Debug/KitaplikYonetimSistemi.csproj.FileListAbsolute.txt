@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\KitaplikYonetimSistemi\KitaplikYonetimSistemi\bin\Debug\KitaplikYonetimSistemi.exe.config
+C:\Users\ahmet\source\repos\KitaplikYonetimSistemi\KitaplikYonetimSistemi\bin\Debug\KitaplikYonetimSistemi.exe
+C:\Users\ahmet\source\repos\KitaplikYonetimSistemi\KitaplikYonetimSistemi\bin\Debug\KitaplikYonetimSistemi.pdb
+C:\Users\ahmet\source\repos\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.exe
+C:\Users\ahmet\source\repos\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.pdb

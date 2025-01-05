@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\UrunSınıfı\UrunSınıfı\bin\Debug\UrunSınıfı.exe.config
+C:\Users\ahmet\source\repos\UrunSınıfı\UrunSınıfı\bin\Debug\UrunSınıfı.exe
+C:\Users\ahmet\source\repos\UrunSınıfı\UrunSınıfı\bin\Debug\UrunSınıfı.pdb
+C:\Users\ahmet\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.exe
+C:\Users\ahmet\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.pdb

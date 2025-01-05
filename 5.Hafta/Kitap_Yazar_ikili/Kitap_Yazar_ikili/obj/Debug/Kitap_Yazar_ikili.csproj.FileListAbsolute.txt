@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Kitap_Yazar_ikili\Kitap_Yazar_ikili\bin\Debug\Kitap_Yazar_ikili.exe.config
+C:\Users\Beşir Can\source\repos\Kitap_Yazar_ikili\Kitap_Yazar_ikili\bin\Debug\Kitap_Yazar_ikili.exe
+C:\Users\Beşir Can\source\repos\Kitap_Yazar_ikili\Kitap_Yazar_ikili\bin\Debug\Kitap_Yazar_ikili.pdb
+C:\Users\Beşir Can\source\repos\Kitap_Yazar_ikili\Kitap_Yazar_ikili\obj\Debug\Kitap_Yazar_ikili.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Kitap_Yazar_ikili\Kitap_Yazar_ikili\obj\Debug\Kitap_Yazar_ikili.exe
+C:\Users\Beşir Can\source\repos\Kitap_Yazar_ikili\Kitap_Yazar_ikili\obj\Debug\Kitap_Yazar_ikili.pdb

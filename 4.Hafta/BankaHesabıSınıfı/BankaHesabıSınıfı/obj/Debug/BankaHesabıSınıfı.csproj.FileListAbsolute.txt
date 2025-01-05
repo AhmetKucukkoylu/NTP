@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\BankaHesabıSınıfı\BankaHesabıSınıfı\obj\Debug\BankaHesabıSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\BankaHesabıSınıfı\BankaHesabıSınıfı\bin\Debug\BankaHesabıSınıfı.exe.config
+C:\Users\ahmet\source\repos\BankaHesabıSınıfı\BankaHesabıSınıfı\bin\Debug\BankaHesabıSınıfı.exe
+C:\Users\ahmet\source\repos\BankaHesabıSınıfı\BankaHesabıSınıfı\bin\Debug\BankaHesabıSınıfı.pdb
+C:\Users\ahmet\source\repos\BankaHesabıSınıfı\BankaHesabıSınıfı\obj\Debug\BankaHesabıSınıfı.exe
+C:\Users\ahmet\source\repos\BankaHesabıSınıfı\BankaHesabıSınıfı\obj\Debug\BankaHesabıSınıfı.pdb

@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\ZamanIslemleri\ZamanIslemleri\bin\Debug\ZamanIslemleri.exe.config
+C:\Users\ahmet\source\repos\ZamanIslemleri\ZamanIslemleri\bin\Debug\ZamanIslemleri.exe
+C:\Users\ahmet\source\repos\ZamanIslemleri\ZamanIslemleri\bin\Debug\ZamanIslemleri.pdb
+C:\Users\ahmet\source\repos\ZamanIslemleri\ZamanIslemleri\obj\Debug\ZamanIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ZamanIslemleri\ZamanIslemleri\obj\Debug\ZamanIslemleri.exe
+C:\Users\ahmet\source\repos\ZamanIslemleri\ZamanIslemleri\obj\Debug\ZamanIslemleri.pdb

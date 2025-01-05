@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Cocuk_Ebeveyn\Cocuk_Ebeveyn\bin\Debug\Cocuk_Ebeveyn.exe.config
+C:\Users\Beşir Can\source\repos\Cocuk_Ebeveyn\Cocuk_Ebeveyn\bin\Debug\Cocuk_Ebeveyn.exe
+C:\Users\Beşir Can\source\repos\Cocuk_Ebeveyn\Cocuk_Ebeveyn\bin\Debug\Cocuk_Ebeveyn.pdb
+C:\Users\Beşir Can\source\repos\Cocuk_Ebeveyn\Cocuk_Ebeveyn\obj\Debug\Cocuk_Ebeveyn.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Cocuk_Ebeveyn\Cocuk_Ebeveyn\obj\Debug\Cocuk_Ebeveyn.exe
+C:\Users\Beşir Can\source\repos\Cocuk_Ebeveyn\Cocuk_Ebeveyn\obj\Debug\Cocuk_Ebeveyn.pdb

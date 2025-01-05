@@ -1,0 +1,7 @@
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\bin\Debug\Market Otomasyon.exe.config
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\bin\Debug\Market Otomasyon.exe
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\bin\Debug\Market Otomasyon.pdb
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\obj\Debug\Market Otomasyon.csprojAssemblyReference.cache
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\obj\Debug\Market Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\obj\Debug\Market Otomasyon.exe
+C:\Users\SirKucukkoylu\source\repos\Market Otomasyon\Market Otomasyon\obj\Debug\Market Otomasyon.pdb
